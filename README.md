@@ -70,3 +70,9 @@ Git & GitHub
 Enter the study hours when prompted
 
 View your Predicted Marks & PASS/FAIL result
+
+# Developed By:-
+Name: Pushkar
+
+Registration no:- 25BCY10105
+
